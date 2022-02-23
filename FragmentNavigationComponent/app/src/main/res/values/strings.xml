@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">FragmentNavigationComponent</string>
+    <string name="app_name">NavDemo1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="terms">Terms</string>
+    <string name="terms_and_conditions">Terms and conditions</string>
+    <string name="view_terms">View Terms</string>
+    <string name="welcome">Welcome</string>
 </resources>
